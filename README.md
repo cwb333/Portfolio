@@ -27,20 +27,21 @@
 - Online Data Manipulation and Visualization:
   -Shiny app development from start to finish either on local desktop computers (Windows, Mac, or Linux) or over Linux cloud servers
 - Visualization of public databases provided through Google on Coursera - Tableau
-- Data processing, analysis, and visualization using the following R language packages:
-  - Data importing, pipelining, and visualization (tidyverse) - dplyr, ggplot2, readr, tidyr
-  - Database/table filtering and formatting  - DBI, DT, data.table
-  - Chromatogram visualization - OrgMassSpecR
-  - Univariate and multivariate classification - FactoMineR, factoextra, SensoMineR, stats, MASS
-  - Hierarchical clustering and heatmaps - mixOmics, gplots
-  - Univariate and multivariate regression - stats, e1071, pls, chemometrics
-  - Experience modifying published R packages/functions to optimize results
-  - Code reporting - Rmarkdown 
-- Using the following Python modules:
-  - Data importing and filtering - os, pandas
-  - Machine learning for regression and classification - scikit-learn
-  - Matrix manipulation - numpy
-  - Data visualization - matplotlib, seaborn
+- Data processing, analysis, and visualization
+-   - Using the following R language packages:
+      - Data importing, pipelining, and visualization (tidyverse) - dplyr, ggplot2, readr, tidyr
+      - Database/table filtering and formatting  - DBI, DT, data.table
+      - Chromatogram visualization - OrgMassSpecR
+      - Univariate and multivariate classification - FactoMineR, factoextra, SensoMineR, stats, MASS
+      - Hierarchical clustering and heatmaps - mixOmics, gplots
+      - Univariate and multivariate regression - stats, e1071, pls, chemometrics
+      - Experience modifying published R packages/functions to optimize results
+      - Code reporting - Rmarkdown 
+  - Using the following Python modules:
+      - Data importing and filtering - os, pandas
+      - Machine learning for regression and classification - scikit-learn
+      - Matrix manipulation - numpy
+      - Data visualization - matplotlib, seaborn
 - Database querying 
   - BigQuery in Google cloud
   - PostgreSQL in PgAdmin and DBeaver
