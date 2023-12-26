@@ -46,7 +46,7 @@
   - BigQuery in Google cloud
   - PostgreSQL in PgAdmin and DBeaver
 
-**Education and Certificates**
+**Education and Certificates** (Certificate pdf files links listed at top of page)
 - Machine Learning A-Z Certificate of Completion, Udemy - 2023
 - Certified Data Analyst, Coursera Plus Data Analyst Certificate Program by Google - 2023
 - Certified in PostgreSQL,  University of Michigan through Coursera Plus Database Design and Basic SQL in PostgreSQL - 2023
