@@ -37,7 +37,7 @@
       - Univariate and multivariate regression - stats, e1071, pls, chemometrics
       - Experience modifying published R packages/functions to optimize results
       - Code reporting - Rmarkdown 
-  - Using the following Python modules:
+    - Using the following Python modules:
       - Data importing and filtering - os, pandas
       - Machine learning for regression and classification - scikit-learn
       - Matrix manipulation - numpy
