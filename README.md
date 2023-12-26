@@ -46,3 +46,9 @@
   - BigQuery in Google cloud
   - PostgreSQL in PgAdmin and DBeaver
 
+**Education and Certificates**
+- [Machine Learning A-Z Certificate of Completion, Udemy](https://drive.google.com/drive/u/0/folders/1DRFjXe3XRMwu25i3t4KNNy6kbQbQSsMp) - 2023
+- Certified Data Analyst, Coursera Plus Data Analyst Certificate Program by Google - 2023
+- Certified in PostgreSQL,  University of Michigan through Coursera Plus Database Design and Basic SQL in PostgreSQL - 2023
+- Master of Science, Washington State University, Pullman, WA - Food science with an emphasis on wine chemistry - 2011
+- Bachelor of Arts, Westminster College, New Willmington, PA - Philosophy - 2004
