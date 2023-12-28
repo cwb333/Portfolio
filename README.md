@@ -20,8 +20,7 @@
 
 - [Click here](https://github.com/cwb333/ANOVA) to view the github page with links and information for an analysis of variance (ANOVA) demo app.
 - [Click here](https://github.com/cwb333/PCA) to view the github page with links and information for a principal components aalysis (PCA) demo app.
-- [Click here](https://github.com/cwb333/phenolics) to view the github page with links and information for a multivariate regression of wine phenolics demo app.
-
+- 
 **Programming Skills**
 
 - Online Data Manipulation and Visualization:
